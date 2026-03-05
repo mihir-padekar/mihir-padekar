@@ -26,17 +26,17 @@
 
 ## 📊 Featured Projects
 
-### ✈️ Airline Price Prediction
+### ✈️  Telco Churn Prediction - MLflow - Docker - Streamlit
 
-Machine learning model predicting airline ticket prices using real-world dataset.
+Machine learning model predicting customer churn in telco company using real-world dataset.
 
-### 📦 Ecommerce Delivery Analytics
+### 📦 Bank Churn Prediction - FastAPI - Snowflake - AWS
 
-End-to-end analytics project solving delivery performance issues with dashboards and ML insights.
+End-to-end analytics project solving churning customer in bank
 
-### 🤖 Multi-Agent AI Research System
+### 🤖 SQL Delayed Delivery Analysis 
 
-Autonomous AI agents that search the web, analyze information, and generate reports.
+SQL to analyze the root causes of delivery delays in an international e-commerce company selling electronics.
 
 ---
 
