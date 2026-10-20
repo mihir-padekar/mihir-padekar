@@ -14,7 +14,10 @@
 - 🛠️ Developing end-to-end applications with **Python, FastAPI, PostgreSQL, Docker, and cloud technologies**.
 - 📊 Interested in model optimization, AI-powered analytics, evaluation, and production observability.
 - 🎯 Focused on engineering reliable, measurable, and deployable AI solutions.
-
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ---
 
 ## 🧰 Technical Skills
